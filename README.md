@@ -1,3 +1,3 @@
 # Pertemuan-1
-# Nama : Frederick Valentius Setyawan
-# Nrp  : C14220209
+Nama : Frederick Valentius Setyawan 
+Nrp  : C14220209
